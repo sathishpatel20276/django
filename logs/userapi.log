@@ -1,0 +1,371 @@
+INFO 2021-07-31 12:17:52,940 autoreload 15480 16316 Watching for file changes with StatReloader
+ERROR 2021-07-31 12:17:55,553 views 15480 12532 Reset Password link is not valid
+WARNING 2021-07-31 12:17:55,554 log 15480 12532 Bad Request: /api/register/
+WARNING 2021-07-31 12:17:55,555 basehttp 15480 12532 "POST /api/register/ HTTP/1.1" 400 34
+INFO 2021-07-31 12:18:28,604 autoreload 15480 16316 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:18:29,221 autoreload 9904 12448 Watching for file changes with StatReloader
+ERROR 2021-07-31 12:18:32,633 views 9904 16092 Reset Password link is not valid
+WARNING 2021-07-31 12:18:32,634 log 9904 16092 Bad Request: /api/register/
+WARNING 2021-07-31 12:18:32,635 basehttp 9904 16092 "POST /api/register/ HTTP/1.1" 400 34
+INFO 2021-07-31 12:19:15,885 autoreload 9904 12448 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:19:16,506 autoreload 13580 11956 Watching for file changes with StatReloader
+INFO 2021-07-31 12:19:34,472 autoreload 13580 11956 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:19:35,077 autoreload 15892 4688 Watching for file changes with StatReloader
+INFO 2021-07-31 12:19:45,547 autoreload 15892 4688 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:19:46,182 autoreload 11396 13728 Watching for file changes with StatReloader
+INFO 2021-07-31 12:19:51,255 autoreload 11396 13728 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:19:51,878 autoreload 16068 7952 Watching for file changes with StatReloader
+INFO 2021-07-31 12:19:53,503 autoreload 16068 7952 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:19:54,109 autoreload 15692 14400 Watching for file changes with StatReloader
+ERROR 2021-07-31 12:19:58,193 views 15692 7792 something went wrong:'dict' object has no attribute 'pk'
+WARNING 2021-07-31 12:19:58,193 log 15692 7792 Bad Request: /api/register/
+WARNING 2021-07-31 12:19:58,194 basehttp 15692 7792 "POST /api/register/ HTTP/1.1" 400 30
+INFO 2021-07-31 12:21:51,029 autoreload 15692 14400 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:21:51,660 autoreload 1056 4660 Watching for file changes with StatReloader
+INFO 2021-07-31 12:21:57,520 autoreload 1056 4660 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:21:58,119 autoreload 13932 3872 Watching for file changes with StatReloader
+INFO 2021-07-31 12:22:20,484 autoreload 13932 3872 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:22:21,127 autoreload 5532 15872 Watching for file changes with StatReloader
+INFO 2021-07-31 12:22:33,773 autoreload 5532 15872 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:22:34,382 autoreload 5112 14712 Watching for file changes with StatReloader
+INFO 2021-07-31 12:22:41,632 autoreload 5112 14712 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:22:42,309 autoreload 6064 15916 Watching for file changes with StatReloader
+INFO 2021-07-31 12:22:50,670 autoreload 6064 15916 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:22:51,272 autoreload 12640 5408 Watching for file changes with StatReloader
+INFO 2021-07-31 12:23:21,301 autoreload 12640 5408 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:23:21,919 autoreload 16148 10584 Watching for file changes with StatReloader
+INFO 2021-07-31 12:23:24,816 autoreload 16148 10584 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:23:25,389 autoreload 2364 7912 Watching for file changes with StatReloader
+INFO 2021-07-31 12:23:40,156 autoreload 2364 7912 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:23:40,762 autoreload 6868 14100 Watching for file changes with StatReloader
+INFO 2021-07-31 12:23:52,320 autoreload 6868 14100 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:23:52,971 autoreload 1656 7720 Watching for file changes with StatReloader
+INFO 2021-07-31 12:23:54,797 autoreload 1656 7720 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:23:55,396 autoreload 12996 15836 Watching for file changes with StatReloader
+INFO 2021-07-31 12:23:58,034 autoreload 12996 15836 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:23:58,618 autoreload 15956 15464 Watching for file changes with StatReloader
+INFO 2021-07-31 12:24:17,818 autoreload 15956 15464 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:24:18,443 autoreload 9100 3024 Watching for file changes with StatReloader
+INFO 2021-07-31 12:24:23,582 autoreload 9100 3024 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:24:24,191 autoreload 5392 11760 Watching for file changes with StatReloader
+INFO 2021-07-31 12:24:27,104 autoreload 5392 11760 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:24:27,727 autoreload 7612 12080 Watching for file changes with StatReloader
+INFO 2021-07-31 12:24:32,796 autoreload 7612 12080 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:24:33,421 autoreload 15984 7184 Watching for file changes with StatReloader
+ERROR 2021-07-31 12:24:46,719 log 15984 1336 Internal Server Error: /api/register/
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 54, in post
+    user.save()
+  File "C:\Users\sa20249\django\django_auth\restapp\models.py", line 65, in save
+    super(User, self).save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 76, in post
+    user.delete()
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 947, in delete
+    assert self.pk is not None, (
+AssertionError: User object can't be deleted because its id attribute is set to None.
+ERROR 2021-07-31 12:24:46,724 basehttp 15984 1336 "POST /api/register/ HTTP/1.1" 500 196394
+INFO 2021-07-31 12:24:52,266 autoreload 15908 15608 Watching for file changes with StatReloader
+WARNING 2021-07-31 12:24:54,746 log 15908 7756 Bad Request: /api/register/
+WARNING 2021-07-31 12:24:54,746 basehttp 15908 7756 "POST /api/register/ HTTP/1.1" 400 50
+ERROR 2021-07-31 12:25:06,961 log 15908 2024 Internal Server Error: /api/register/
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 54, in post
+    user.save()
+  File "C:\Users\sa20249\django\django_auth\restapp\models.py", line 65, in save
+    super(User, self).save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 76, in post
+    user.delete()
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 947, in delete
+    assert self.pk is not None, (
+AssertionError: User object can't be deleted because its id attribute is set to None.
+ERROR 2021-07-31 12:25:06,966 basehttp 15908 2024 "POST /api/register/ HTTP/1.1" 500 196394
+INFO 2021-07-31 12:25:54,091 autoreload 15908 15608 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:25:54,699 autoreload 3024 13776 Watching for file changes with StatReloader
+INFO 2021-07-31 12:25:56,482 autoreload 3024 13776 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:25:57,081 autoreload 12984 11760 Watching for file changes with StatReloader
+INFO 2021-07-31 12:26:03,230 autoreload 12984 11760 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:26:03,835 autoreload 12452 12080 Watching for file changes with StatReloader
+INFO 2021-07-31 12:26:05,666 autoreload 12452 12080 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:26:06,293 autoreload 7336 14752 Watching for file changes with StatReloader
+WARNING 2021-07-31 12:26:16,215 log 7336 8148 Bad Request: /api/register/
+WARNING 2021-07-31 12:26:16,215 basehttp 7336 8148 "POST /api/register/ HTTP/1.1" 400 50
+ERROR 2021-07-31 12:26:26,459 log 7336 2296 Internal Server Error: /api/register/
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 54, in post
+    user.save()
+  File "C:\Users\sa20249\django\django_auth\restapp\models.py", line 65, in save
+    super(User, self).save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 76, in post
+    user.delete()
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 947, in delete
+    assert self.pk is not None, (
+AssertionError: User object can't be deleted because its id attribute is set to None.
+ERROR 2021-07-31 12:26:26,463 basehttp 7336 2296 "POST /api/register/ HTTP/1.1" 500 196444
+INFO 2021-07-31 12:26:55,185 autoreload 7336 14752 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:26:55,780 autoreload 15556 6556 Watching for file changes with StatReloader
+INFO 2021-07-31 12:26:59,934 autoreload 15556 6556 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:27:00,611 autoreload 10388 11576 Watching for file changes with StatReloader
+INFO 2021-07-31 12:27:03,641 autoreload 10388 11576 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:27:04,271 autoreload 1056 15768 Watching for file changes with StatReloader
+WARNING 2021-07-31 12:27:23,231 log 1056 9780 Bad Request: /api/register/
+WARNING 2021-07-31 12:27:23,232 basehttp 1056 9780 "POST /api/register/ HTTP/1.1" 400 50
+ERROR 2021-07-31 12:27:31,379 log 1056 5996 Internal Server Error: /api/register/
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 54, in post
+    user.save()
+  File "C:\Users\sa20249\django\django_auth\restapp\models.py", line 65, in save
+    super(User, self).save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: restapp_user.email
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\sa20249\django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\sa20249\django\django_auth\restapp\views.py", line 76, in post
+    user.delete()
+  File "C:\Users\sa20249\django\venv\lib\site-packages\django\db\models\base.py", line 947, in delete
+    assert self.pk is not None, (
+AssertionError: User object can't be deleted because its id attribute is set to None.
+ERROR 2021-07-31 12:27:31,383 basehttp 1056 5996 "POST /api/register/ HTTP/1.1" 500 196457
+WARNING 2021-07-31 12:27:37,932 log 1056 3608 Bad Request: /api/register/
+WARNING 2021-07-31 12:27:37,933 basehttp 1056 3608 "POST /api/register/ HTTP/1.1" 400 50
+INFO 2021-07-31 12:28:11,632 basehttp 1056 16308 "POST /api/login/ HTTP/1.1" 200 263
+INFO 2021-07-31 12:28:23,543 autoreload 1056 15768 C:\Users\sa20249\django\django_auth\restapp\views.py changed, reloading.
+INFO 2021-07-31 12:28:24,173 autoreload 11956 5220 Watching for file changes with StatReloader
+WARNING 2021-07-31 12:28:28,334 log 11956 14468 Bad Request: /api/register/
+WARNING 2021-07-31 12:28:28,334 basehttp 11956 14468 "POST /api/register/ HTTP/1.1" 400 50
+INFO 2021-07-31 12:44:10,492 autoreload 13300 5980 Watching for file changes with StatReloader
